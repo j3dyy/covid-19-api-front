@@ -125,7 +125,9 @@ export default {
       }
     },
     summaryData() {
-      return this.$store.state.statistics.selectedCountry.summaryData
+      if (this.$store.state.statistics.selectedCountry){
+        return this.$store.state.statistics.selectedCountry.summaryData
+      }
     },
     filteredStatistics(){
       const SEARCH_INPUT = this.searchInput
