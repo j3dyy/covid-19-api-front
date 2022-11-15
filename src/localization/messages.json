@@ -1,0 +1,48 @@
+
+{
+  "en": {
+    "message": {
+      "logOut": "Log Out",
+      "navTitle": "Covid-19 Stat",
+      "dashboardTitle": "Realtime Statistics",
+      "search": "Search...",
+      "name": "Name",
+      "confirmed": "Confirmed",
+      "death": "Death",
+      "recovered": "Recovered",
+      "created_at": "Date",
+      "back": "Back",
+      "email": "E-mail",
+      "password": "Password",
+      "re-password": "Confirm Password",
+      "username": "Name",
+      "login": "Login",
+      "register": "Register",
+      "clickHereRegister": "Click here to register",
+      "clickHereLogin": "Back to Login"
+    }
+  },
+
+  "ka": {
+    "message": {
+      "logOut": "გამოსვლა",
+      "navTitle": "კოვიდ-19 სტატისტიკა",
+      "dashboardTitle": "სტატისტიკა რეალურ დროში",
+      "search": "ძიება...",
+      "name": "სახელი",
+      "confirmed": "დადასტურებული",
+      "death": "გარდაცვლილი",
+      "recovered": "გამოჯამრთელებული",
+      "created_at": "თარიღი",
+      "back": "უკან",
+      "email": "ელ ფოსტა",
+      "password": "პაროლი",
+      "re-password": "გაიმეორეთ პაროლი",
+      "username": "სახელი",
+      "login": "შესვლა",
+      "register": "რეგისტრაცია",
+      "clickHereRegister": "რეგისტრაციისთვის დააჭირეთ აქ",
+      "clickHereLogin": "ავტორიზაციაზე დაბრუნება"
+    }
+  }
+}
