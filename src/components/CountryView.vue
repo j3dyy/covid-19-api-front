@@ -147,8 +147,8 @@ export default {
   },
   methods:{
     getPercentSumOf(key){
-      let fullSum = this.summaryData.recovered + this.summaryData.deaths + this.summaryData.confirmed
-      let currentKeySum = this.summaryData[key]
+      let fullSum = parseInt(this.summaryData.recovered) + parseInt(this.summaryData.deaths) + parseInt(this.summaryData.confirmed)
+      let currentKeySum = parseInt(this.summaryData[key])
 
       if (fullSum === 0){
         return 0
